@@ -53,7 +53,7 @@ No Python installation is required if you are using the standalone release.
 
 For users who do not wish to install a Python environment, a standalone executable (.exe) is available in the project's distribution folder. 
 
-* Windows: Locate 'UniversalHasher.exe' in the /dist directory.
+* Windows: Locate 'UniversalHasher.exe' in the Releases section.
 * Note: As this is a standalone tool, some security software may flag it as unrecognized. This is a common occurrence with self-contained Python applications and can be resolved by allowing the file to run through your security prompt.
 
 ---
